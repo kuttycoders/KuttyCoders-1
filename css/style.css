@@ -803,3 +803,7 @@ body {
 .bold{
   font-weight: bold;
 }
+.letterspace{
+  letter-spacing: 5px;
+  font-size: 5px;
+}
