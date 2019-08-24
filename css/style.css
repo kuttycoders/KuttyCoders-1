@@ -530,7 +530,8 @@ body {
 
 .gtco-testimonials {
   position: relative;
-  margin-top: 200px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 @media (max-width: 767px) {
   .gtco-testimonials {
@@ -670,8 +671,8 @@ body {
 
 .gtco-news {
   background: #fcfcfc;
-  padding: 20px 0;
-  margin: 50px auto;
+  padding:  0;
+  margin: 20px auto;
 }
 .gtco-news h2 {
   font-size: 36px;
@@ -733,7 +734,7 @@ body {
 }
 
 #gtco-footer {
-  padding-bottom: 20px;
+  padding-bottom: 200px;
 }
 #gtco-footer  {
   font-family: "Lato-Medium";
@@ -852,4 +853,14 @@ body {
   border-radius: 20px;
   border: 1px solid black;
 
+}
+
+.green{
+  color:darkgreen;
+  font-weight: 500;
+}
+
+.black{
+  color: #232323;
+  font-weight: bold;
 }
